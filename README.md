@@ -157,5 +157,3 @@ journalctl -u nombre.service
 
 ---
 
-✔️ README listo para copiar y usar en tu repositorio.
-
