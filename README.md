@@ -2,6 +2,13 @@
 
 Guía básica en formato claro para administrar servicios y el sistema en Linux usando `systemctl`.
 
+- [📦 Administración de Servicios con `systemctl`](#-administración-de-servicios-con-systemctl)
+  - [🔧 Gestión de servicios](#-gestión-de-servicios)
+  - [🖥️ Gestión del sistema](#️-gestión-del-sistema)
+  - [📊 Información útil](#-información-útil)
+  - [✅ Notas](#-notas)
+
+
 ---
 
 ## 🔧 Gestión de servicios
